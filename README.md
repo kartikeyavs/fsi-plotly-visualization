@@ -7,7 +7,7 @@ Familiarize with Plot.ly Python Graphing library.
 - **Year(s) of publication:** 2006 - 2019
 - **Publisher/Owner:** The fund for Peace
 - **Link(s):** [Fragile State Index](https://fragilestatesindex.org)
-## Enviorment
+## Environment
 - Python    '3.7.2'
 - pandas    '0.23.4'
 - anaconda  '5.3.1'
